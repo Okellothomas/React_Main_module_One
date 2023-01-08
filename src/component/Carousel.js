@@ -1,5 +1,6 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
+import "../index.css"
 
 function MyCarousel() {
   return (
@@ -7,7 +8,7 @@ function MyCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=373940"
+          src="../images/one.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -18,7 +19,7 @@ function MyCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src="../images/two.jpg"
           alt="Second slide"
         />
 
@@ -30,7 +31,7 @@ function MyCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src="../images/three.jpg"
           alt="Third slide"
         />
 

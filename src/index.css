@@ -5,3 +5,11 @@
 .carousel img{
     height: 70vh;
 }
+
+.footer{
+    background-color: #1d1c1c;
+    color: white;
+    height: 5vh;
+    align-items: center;
+    text-align: center;
+}
