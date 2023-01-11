@@ -27,6 +27,10 @@ function Home() {
                 <li>First Rat</li>
                 <li>First Rat</li>
             </ul>
+
+            <ul>
+                <a href="www.google.com">Google me!</a>
+            </ul>
         </div>
     )
 }
