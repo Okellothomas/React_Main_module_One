@@ -31,7 +31,11 @@ function Home() {
             <ul>
                 <a href="www.google.com">Google me!</a>
             </ul>
+
+            <hr />
         </div>
+
+    
     )
 }
 
